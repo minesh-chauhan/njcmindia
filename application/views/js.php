@@ -1,0 +1,16 @@
+<script type="text/javascript" src="<?php echo base_url('assets/js/jquery-3.6.0.min.js') ?>"></script>
+<script type="text/javascript" src="<?php echo base_url('assets/js/jquery.ba-bbq.min.js') ?>"></script>
+<script type="text/javascript" src="<?php echo base_url('assets/js/jquery-ui-1.12.1.custom.min.js') ?>"></script>
+<script type="text/javascript" src="<?php echo base_url('assets/js/jquery.easing.1.4.1.min.js') ?>"></script>
+<script type="text/javascript" src="<?php echo base_url('assets/js/jquery.carouFredSel-6.2.1-packed.js') ?>"></script>
+<script type="text/javascript" src="<?php echo base_url('assets/js/jquery.touchSwipe.min.js') ?>"></script>
+<script type="text/javascript" src="<?php echo base_url('assets/js/jquery.transit.min.js') ?>"></script>
+<script type="text/javascript" src="<?php echo base_url('assets/js/jquery.sliderControl.js') ?>"></script>
+<script type="text/javascript" src="<?php echo base_url('assets/js/jquery.timeago.js') ?>"></script>
+<script type="text/javascript" src="<?php echo base_url('assets/js/jquery.hint.js') ?>"></script>
+<script type="text/javascript" src="<?php echo base_url('assets/js/jquery.prettyPhoto.js') ?>"></script>
+<script type="text/javascript" src="<?php echo base_url('assets/js/jquery.qtip.min.js') ?>"></script>
+<script type="text/javascript" src="<?php echo base_url('assets/js/jquery.blockUI.js') ?>"></script>
+<script type="text/javascript" src="<?php echo base_url('assets/js/jquery.imagesloaded-packed.js') ?>"></script>
+<script type="text/javascript" src="<?php echo base_url('assets/js/main.js') ?>"></script>
+<script type="text/javascript" src="<?php echo base_url('assets/js/odometer.min.js') ?>"></script>
