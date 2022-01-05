@@ -54,3 +54,4 @@ $route['404_override'] = '';
 $route['translate_uri_dashes'] = FALSE;
 
 $route['home'] = 'welcome/index';
+$route['contact'] = 'welcome/contactUs';

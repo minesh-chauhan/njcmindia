@@ -13,4 +13,9 @@ class Welcome extends CI_Controller {
         $this->load->view('common', $this->data);
     }
 
+    public function contactUs() {
+        $this->data['content'] = 'pages/contact';
+        $this->load->view('common', $this->data);
+    }
+
 }
